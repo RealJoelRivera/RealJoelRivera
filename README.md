@@ -2,6 +2,8 @@
 
 [My Website!]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealJoelRivera)](https://github.com/RealJoelRivera/github-readme-stats) [![Joel's github stats](https://github-readme-stats.vercel.app/api?username=RealJoelRivera)](https://github.com/RealJoelRivera/github-readme-stats) 
+
 [My Website!]: https://www.realjoelrivera.com
 
 <!--
